@@ -1,3 +1,2 @@
 [build]
-  command = "npm start"
-  publish = "."  # This assumes your build output is in the root directory
+    functions = "functions"
